@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GuitarTuner</string>
+    <string name="action_settings">Settings</string>
+    <string name="prefs_show_freqbar">Show frequency bar</string>
+    <string name="prefs_summary_show_freqbar">Show a frequency bar on main activity</string>
+    <string name="prefs_show_freq">Show frequency</string>
+    <string name="prefs_summary_show_freq">Show frequency of the current note</string>
+    <string name="prefs_show_mic_level">Show microphone level</string>
+    <string name="prefs_summary_show_mic_level">Show input sound level and a level of noise filter</string>
+    <string name="about">About</string>
+
+</resources>
